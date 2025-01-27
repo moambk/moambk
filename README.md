@@ -62,9 +62,9 @@ Dedicated computer science student focused on developing innovative software sol
 
 ## Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melih0132&theme=github_dark&hide_border=true)](https://github.com/melih0132)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melih0132&theme=github_dark&hide_border=true)](https://github.com/moambk)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melih0132&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/melih0132)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melih0132&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/moambk)
 
 ### Random Dev Quote
   
